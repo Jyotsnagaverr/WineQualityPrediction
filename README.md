@@ -1,0 +1,1 @@
+The purpose of wine quality prediction is to assess and classify wines based on their potential market value and consumer preference, aiding winemakers in optimizing production processes and quality control. This helps in ensuring consistency, improving product offerings, and making informed decisions about pricing and marketing strategies.
